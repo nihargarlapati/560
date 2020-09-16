@@ -1,1 +1,2 @@
 # 560
+Lab1: In the following lab we are using the sakila database to look at the various genres of the movies in the film table. This was done by first joining the films table to the film category table using the film id and fetched the category id for each film. Once we have the category id we joined the 2 tables to a 3rd table category which provides us with the genre for the film, this join was possible using the category id. 
